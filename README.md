@@ -18,6 +18,7 @@
 #### Question 4:
 ![2021-08-02 (2)](https://user-images.githubusercontent.com/86596766/127787453-e2ac242d-61cf-446f-ad0e-914a6ec64980.png)
 #### Question 5:
-![Desktop VS Mobile Version](https://user-images.githubusercontent.com/86596766/127787365-3a77bf36-2e34-4c25-a9a5-4e26de35bfa9.png)
+![Desktop VS Mobile Version (3)](https://user-images.githubusercontent.com/86596766/127787477-aea2c0d2-e09b-46da-8b37-ac096294cfd0.png)
+
 
 
