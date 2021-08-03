@@ -15,8 +15,9 @@
 #### 5) Github
 
 ## Datasets Used
-Pageviews Filtered to Human Traffic
+#### Pageviews Filtered to Human Traffic
 https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews
-Monthly Clickstream
+
+#### Monthly Clickstream
 https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream
 
