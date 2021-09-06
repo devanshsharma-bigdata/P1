@@ -16,9 +16,9 @@
 #### 6) MapReduce
 
 ## Datasets Used
-#### Pageviews Filtered to Human Traffic
-https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews
+[Pageviews Filtered to Human Traffic]
+(https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews)
 
-#### Monthly Clickstream
-https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream
+[Monthly Clickstream]
+(https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream)
 
