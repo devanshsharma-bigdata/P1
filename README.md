@@ -33,7 +33,7 @@ An analysis on Wikipedia datasets.
 * [Monthly Clickstream](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream)
 
 ### License
-* This project uses the following license: [MIT License](https://github.com/devanshsharma-bigdata/P1-Wkipedia-Data-Analysis/blob/main/LICENSE)
+This project uses the following license: [MIT License](https://github.com/devanshsharma-bigdata/P1-Wkipedia-Data-Analysis/blob/main/LICENSE)
 
 
 
