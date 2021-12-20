@@ -17,7 +17,7 @@ An analysis on Wikipedia datasets.
 * User can find out which English wikipedia article in the month of June 2021 has the most clicks on internal link to another wikipedia article.
 * User can find out what series of English wikipedia articles, starting with Hotel California, has the largest clicks on internal links in June 2021.
 * User can find out an example of an English wikipedia article that is relatively more popular in the Americas than Germany.
-* User can compare the Desktop VS Mobile Versions of Wikipedia in terms of views.
+* User can compare the Desktop and Mobile Versions of Wikipedia in terms of views.
 
 ### Contributors
 * Hemanth Ghosh
